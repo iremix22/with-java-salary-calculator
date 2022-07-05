@@ -86,7 +86,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 		
-		Employee e =new Employee("kemal",2000,45,1985);
+		Employee e =new Employee("irem",2000,45,1985);
 		
 		System.out.println(e.toString());
 		
